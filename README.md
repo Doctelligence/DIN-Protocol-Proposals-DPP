@@ -28,10 +28,11 @@ DPPs are categorized based on their impact and purpose:
 In the spirit of digital democracy, DIN leverages tools like **gov4git** and **Polis** to empower community members and developers:
 
 - **gov4git:**  
-  Contributions to the DIN ecosystem are rewarded indefinitely based on participation in **gov4git**. Tokens earned through contributions can be allocated according to DPP proposals, and community members can engage in **quadratic voting** to prioritize the importance of these proposals. The most critical proposals will be highlighted to steer community and developer focus.
+  Contributions to the DIN ecosystem are rewarded indefinitely based on participation in **gov4git**. Tokens earned through contributions can be allocated according to DPP proposals, and community members can engage in **quadratic voting** to prioritize the importance of these proposals. The most critical proposals will be highlighted to steer community and developer focus. For more details and to get involved, visit [gov4git on GitHub](https://github.com/gov4git/gov4git.git).
 
-- **Polis:**  
-  **Polis** is used for community discussions, especially on topics of high interest. There is no limit to how long a discussion can continue, allowing for in-depth exploration of ideas. This ensures that every voice in the community can be heard and that decisions are made collectively.
+
+- **POLIS:**  
+  Contributions to the DIN ecosystem are supported through **POLIS**, a platform for collective decision-making. Engage with POLIS to participate in decentralized governance and help shape the future of the network. Tokens earned through contributions can be allocated according to community proposals, and you can use **quadratic voting** to emphasize the importance of these proposals. To explore POLIS and get involved, visit [POLIS on GitHub](https://github.com/compdemocracy/) and [POLIS website](https://pol.is/home).
 
 The DIN community is committed to an experimental and evolving governance process that reflects the values of digital democracy. Everyone is encouraged to participate in shaping the future of the protocol.
 
